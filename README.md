@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=thatsleepyman&theme=catppuccin-mocha&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![thatsleepman's GitHub stats](https://github-readme-stats.vercel.app/api?username=thatsleepyman)](https://github.com/thatsleepyman/github-readme-stats)
 
 <!--
 **thatsleepyman/thatsleepyman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
