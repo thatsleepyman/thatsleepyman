@@ -26,4 +26,4 @@ You can find and get touch with me on these platforms:
 - [My most recent Project](https://github.com/thatsleepyman/Bowser_the_PyRocess_Browser)
 
 ## 👨‍💻 This week, I spent my time on
-[![thatsleepyman's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thatsleepyman)](https://github.com/thatsleepyman/github-readme-stats)
+[![thatsleepyman's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thatsleepyman&theme=radical)](https://github.com/thatsleepyman/github-readme-stats)
