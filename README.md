@@ -17,7 +17,7 @@ You can find and get touch with me on these platforms:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/stefan-meeuwessen)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&labelColor=blue)](https://twitter.com/thatsleepyman)
-[![StackOverflow](https://img.shields.io/badge/StackOverflow-orange?style=flat-square&logo=stackoverflow&labelColor=orange)](https://stackoverflow.com/users/19625017/stefan-meeuwessen)
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-blue?style=flat-square&logo=stackoverflow&labelColor=blue)](https://stackoverflow.com/users/19625017/stefan-meeuwessen)
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=thatsleepyman&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
