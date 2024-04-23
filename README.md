@@ -3,7 +3,7 @@
 I'm a developer with a passion for Data Science, Python, and automating away issues. I love to explore new technologies and leverage them to solve real-life problems ✨.
 
 ## 🛠️ My Skills
-- **Languages:** Python, PowerShell, SQL, HTML, CSS and a little bit of Javascript
+- **Languages:** Python, PowerShell, SQL, HTML, CSS and a little bit of Javascript and C#
 - **Data Science:** Data Analysis, Data Visualization and an interest in Machine Learning
 - **Automation:** Scripting, Web Scraping, Creating logging and monitoring scripts
 
