@@ -15,7 +15,7 @@ I'm a developer with a passion for Data Science, Python, and automating away iss
 ## 📫 How to reach me
 You can find and get touch with me on these platforms:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue)](www.linkedin.com/in/stefan-meeuwessen)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/stefan-meeuwessen)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&labelColor=blue)](https://twitter.com/thatsleepyman)
 
 ## 🏆 GitHub Trophies
