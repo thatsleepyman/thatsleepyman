@@ -1,6 +1,6 @@
 # Hello, world! 👋 my name is Stefan and I am:
 
-I'm a developer with a passion for Data Science, Python, and automating away issues. I love to explore new technologies and leverage them to solve real-life problems ✨.
+I'm a developer with a passion for Data Science, Python, and automating away issues. I love to explore new technologies and leverage them to solve real-life problems ✨
 
 ## 🛠️ My Skills
 - **Languages:** Python, PowerShell, SQL, HTML, CSS and a little bit of Javascript and C#
