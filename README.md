@@ -29,5 +29,5 @@ You can find and get touch with me on these platforms:
 - [My first Project](https://github.com/thatsleepyman/Powershell-Inventory_Tool)
 - [My most recent Project](https://github.com/thatsleepyman/PyBridge)
 
-## 👨‍💻 This week, I spent my time on
+## 👨‍💻 This week, I spent my freetime on
 [![thatsleepyman's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thatsleepyman&theme=radical)](https://github.com/thatsleepyman/github-readme-stats)
