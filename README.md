@@ -2,10 +2,13 @@
 
 I'm a developer with a passion for Data, Python, and automating away issues. I love to explore new technologies and leverage them to solve real-life problems ✨
 
-## 🛠️ My Skills
-- **Languages:** Python, PowerShell, SQL, HTML, CSS and a little bit of Javascript and C#
-- **Data Science:** Data Analysis, Data Visualization and an interest in Machine Learning
-- **Automation:** Scripting, Web Scraping, Creating logging and monitoring scripts
+## 🛠️ Skills & Expertise
+- **Languages:** Proficient in Python, R, PowerShell, SQL, with a foundational understanding of HTML, CSS, Javascript, and C#.
+  - I'm also planning to expand my skill set by learning React and Rust in the future.
+- **Data Science:** Experienced in Data Analysis and Data Visualization using R, Pandas, Matplotlib, and PowerBI. I also have a growing interest in Machine Learning and predictions.
+- **Data Engineering:** Skilled in designing, building, and maintaining data processing systems using Python.
+- **Data Analytics:** Proficient in interpreting data and analyzing results.
+- **Automation:** Experienced in scripting, creating logging and monitoring scripts to automate repetitive tasks and processes while also creating insight into those scripts.
 
 ## 📈 GitHub Stats
 ![thatsleepyman's GitHub stats](https://github-readme-stats.vercel.app/api?username=thatsleepyman&show_icons=true&theme=radical)
