@@ -27,4 +27,4 @@ You can find and get touch with me on these platforms:
 
 ## 🗂️ Highlight Projects
 - [My first Project](https://github.com/thatsleepyman/Powershell-Inventory_Tool)
-- [My most recent Project](https://github.com/thatsleepyman/PyBridge)
+- [My current Project](https://github.com/thatsleepyman/PyBridge)
