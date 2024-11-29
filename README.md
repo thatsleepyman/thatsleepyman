@@ -29,6 +29,19 @@ Experienced in scripting, creating logging and monitoring scripts to automate re
 
 <br><br>
 
+## 🗂️ Highlight Projects
+[🦀 My current Project: GeoStorm](https://github.com/thatsleepyman/GeoStorm)
+
+[🐍 A fun little Broker in Python: PyBridge](https://github.com/thatsleepyman/PyBridge)
+
+[🌐 My first HTML website](https://github.com/thatsleepyman/Compushop-C.V.C)
+
+[🔧 My first time building an application in C#](https://github.com/thatsleepyman/Excel-to-Access-Database-Exporter)
+
+[⚙️ My first PowerShell script](https://github.com/thatsleepyman/Powershell-Inventory_Tool)
+
+<br><br>
+
 ## 📫 How to reach me
 You can find and get in touch with me on these platforms:
 
@@ -40,19 +53,5 @@ You can find and get in touch with me on these platforms:
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=thatsleepyman&theme=catppuccin_latte&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-<br><br>
-
-## 🗂️ Highlight Projects
-[🦀 My current Project: GeoStorm](https://github.com/thatsleepyman/GeoStorm)
-
-[🐍 A fun little Broker in Python: PyBridge](https://github.com/thatsleepyman/PyBridge)
-
-[🌐 My first HTML website](https://github.com/thatsleepyman/Compushop-C.V.C)
-
-[🔧 My first time building an application in C#](https://github.com/thatsleepyman/Excel-to-Access-Database-Exporter)
-
-[⚙️ My first PowerShell script](https://github.com/thatsleepyman/Powershell-Inventory_Tool)
 
 </div>
