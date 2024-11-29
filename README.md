@@ -45,7 +45,14 @@ You can find and get in touch with me on these platforms:
 <br><br>
 
 ## 🗂️ Highlight Projects
-- [My first Project](https://github.com/thatsleepyman/Powershell-Inventory_Tool)
-- [My current Project](https://github.com/thatsleepyman/PyBridge)
+[🦀 My current Project: GeoStorm](https://github.com/thatsleepyman/GeoStorm)
+
+[🐍 A fun little Broker in Python: PyBridge](https://github.com/thatsleepyman/PyBridge)
+
+[🌐 My first HTML website](https://github.com/thatsleepyman/Compushop-C.V.C)
+
+[🔧 My first time building an application in C#](https://github.com/thatsleepyman/Excel-to-Access-Database-Exporter)
+
+[⚙️ My first PowerShell script](https://github.com/thatsleepyman/Powershell-Inventory_Tool)
 
 </div>
