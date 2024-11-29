@@ -4,16 +4,14 @@ I'm a developer with a passion for Data, Python, and automating away issues. I l
 
 ## 🛠️ Skills & Expertise
 - **Languages:** Proficient in Python, R, PowerShell, SQL, with a foundational understanding of HTML, CSS, Javascript, and C#.
-  - I'm also planning to expand my skill set by learning React and Rust in the future.
-- **Data Science:** Experienced in Data Analysis and Data Visualization using R, Pandas, Matplotlib, and PowerBI. I also have a growing interest in Machine Learning and predictions.
-- **Data Engineering:** Skilled in designing, building, and maintaining data processing systems using Python.
-- **Data Analytics:** Proficient in interpreting data and analyzing results.
-- **Automation:** Experienced in scripting, creating logging and monitoring scripts to automate repetitive tasks and processes while also creating insight into those scripts.
+  - I'm currently working on expanding my skill set by learning Rust.
+- **Data:** Experienced in Data Analysis and Data Visualization, with expertise in R, Python (including Pandas and Matplotlib), and Power BI. I also have a growing interest in Machine Learning and predictive analytics.
+- **Automation:** Experienced in scripting, creating logging and monitoring scripts to automate repetitive tasks and processes whilst also creating insight into those automations.
 
 ## 📈 GitHub Stats
-![thatsleepyman's GitHub stats](https://github-readme-stats.vercel.app/api?username=thatsleepyman&show_icons=true&theme=radical)
+![thatsleepyman's GitHub stats](https://github-readme-stats.vercel.app/api?username=thatsleepyman&show_icons=true&theme=catppuccin_latte)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thatsleepyman&layout=compact&theme=radical)](https://github.com/thatsleepyman/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thatsleepyman&layout=compact&theme=catppuccin_latte)](https://github.com/thatsleepyman/github-readme-stats)
 
 ## 📫 How to reach me
 You can find and get touch with me on these platforms:
