@@ -22,13 +22,6 @@ Experienced in scripting, creating logging and monitoring scripts to automate re
 
 <br><br>
 
-## 📈 GitHub Stats
-![thatsleepyman's GitHub stats](https://github-readme-stats.vercel.app/api?username=thatsleepyman&show_icons=true&theme=catppuccin_latte)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thatsleepyman&layout=compact&theme=catppuccin_latte)](https://github.com/thatsleepyman/github-readme-stats)
-
-<br><br>
-
 ## 🗂️ Highlight Projects
 [🦀 My current Project: GeoStorm](https://github.com/thatsleepyman/GeoStorm)
 
