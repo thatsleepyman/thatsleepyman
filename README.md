@@ -23,11 +23,11 @@ Experienced in scripting, creating logging and monitoring scripts to automate re
 <br><br>
 
 ## 🗂️ Highlight Projects
-[🦀 My current Project: GeoStorm](https://github.com/thatsleepyman/GeoStorm)
+[🦀 My next project: GeoStorm](https://github.com/thatsleepyman/GeoStorm)
 
-[🐍 A fun little Broker in Python: PyBridge](https://github.com/thatsleepyman/PyBridge)
+[🐍 A fun little data broker in Python: PyBridge](https://github.com/thatsleepyman/PyBridge)
 
-[🌐 My first HTML website](https://github.com/thatsleepyman/Compushop-C.V.C)
+[🌐 My first website](https://github.com/thatsleepyman/Compushop-C.V.C)
 
 [🔧 My first time building an application in C#](https://github.com/thatsleepyman/Excel-to-Access-Database-Exporter)
 
