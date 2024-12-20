@@ -25,7 +25,7 @@ Experienced in scripting, creating logging and monitoring scripts to automate re
 ## 🗂️ Highlight Projects
 [🦀 My next project: GeoStorm](https://github.com/thatsleepyman/GeoStorm)
 
-[🦀 My current project: Luigi](https://github.com/thatsleepyman/Luigi)
+[🦀 My current project: Live Monitor Luigi](https://github.com/thatsleepyman/Luigi)
 
 [🐍 A fun little data broker in Python: PyBridge](https://github.com/thatsleepyman/PyBridge)
 
