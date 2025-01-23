@@ -8,7 +8,7 @@ I'm a developer with a passion for Data, Python, and automating away issues. I l
 
 ## 🛠️ Skills & Expertise
 **Programming Languages**  
-Proficient in Python, R, PowerShell, SQL, with a foundational understanding of HTML, CSS, Javascript, and C#. Other than that, I'm currently working on expanding my skill set by learning Rust.
+Proficient in Python, PowerShell, SQL, with a foundational understanding of HTML, CSS, Javascript, and C#. Other than that, I'm currently working on expanding my skill set by learning Rust.
 
 <br>
 
