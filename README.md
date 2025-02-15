@@ -45,6 +45,6 @@ You can find and get in touch with me on these platforms:
 <br><br>
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=thatsleepyman&theme=catppuccin_latte&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=thatsleepyman&theme=catppuccin_mocha&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
