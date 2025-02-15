@@ -23,9 +23,7 @@ Experienced in scripting, creating logging and monitoring scripts to automate re
 <br><br>
 
 ## 🗂️ Highlight Projects
-[🦀 My next project: GeoStorm](https://github.com/thatsleepyman/GeoStorm)
-
-[🦀 (W.I.P.) My first Rust project: crustography](https://github.com/thatsleepyman/crustography)
+[🦀 (Private W.I.P.) A cool Rust Application](https://github.com/thatsleepyman/Live-Monitor-Luigi)
 
 [🐍 A fun little data broker in Python: PyBridge](https://github.com/thatsleepyman/PyBridge)
 
