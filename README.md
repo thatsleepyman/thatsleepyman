@@ -23,7 +23,9 @@ Experienced in scripting, creating logging and monitoring scripts to automate re
 <br><br>
 
 ## 🗂️ Highlight Projects
-[🦀 (Private W.I.P.) A cool Rust Application](https://github.com/thatsleepyman/Live-Monitor-Luigi)
+[🦀 (W.I.P.) A useful Rust utility tool](https://github.com/thatsleepyman/bitsweeper)
+
+[🦀 (W.I.P.) A cool Rust Pipeline Application](https://github.com/thatsleepyman/pripline)
 
 [🐍 A fun little data broker in Python: PyBridge](https://github.com/thatsleepyman/PyBridge)
 
