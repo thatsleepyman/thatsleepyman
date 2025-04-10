@@ -23,7 +23,7 @@ Experienced in scripting, creating logging and monitoring scripts to automate re
 <br><br>
 
 ## 🗂️ Highlight Projects
-[🦀 (W.I.P.) A useful Rust utility tool](https://github.com/thatsleepyman/bitsweeper)
+[🦀 (W.I.P.) A useful Rust utility tool](https://github.com/thatsleepyman/nullsweeper)
 
 [🦀 (W.I.P.) A cool Rust Pipeline Application](https://github.com/thatsleepyman/pripline)
 
