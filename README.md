@@ -25,7 +25,9 @@ Experienced in scripting, creating logging and monitoring scripts to automate re
 ## 🗂️ Highlight Projects
 [🦀 (W.I.P.) A useful Rust utility tool](https://github.com/thatsleepyman/nullsweeper)
 
-[🦀 (W.I.P.) A cool Rust Pipeline Application](https://github.com/thatsleepyman/pripline)
+[🦀 (W.I.P.) One of my first Rust applications, which checks the value of precious metals](https://github.com/thatsleepyman/stackcheck)
+
+[🦀 (W.I.P.) A cool Rust Pipeline and Scheduling application](https://github.com/thatsleepyman/pripline)
 
 [🐍 A fun little data broker in Python: PyBridge](https://github.com/thatsleepyman/PyBridge)
 
