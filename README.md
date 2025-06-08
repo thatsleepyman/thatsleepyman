@@ -23,19 +23,17 @@ Experienced in scripting, creating logging and monitoring scripts to automate re
 <br><br>
 
 ## 🗂️ Highlight Projects
-[🦀 (W.I.P.) A useful Rust utility tool](https://github.com/thatsleepyman/nullsweeper)
+[🦀 (W.I.P.) stackcheck - A Usefull too which checks the value of precious metals](https://github.com/thatsleepyman/stackcheck)
 
-[🦀 (W.I.P.) One of my first Rust applications, which checks the value of precious metals](https://github.com/thatsleepyman/stackcheck)
+[🦀 (W.I.P.) pripline - A cool Rust Pipeline and Scheduling application](https://github.com/thatsleepyman/pripline)
 
-[🦀 (W.I.P.) A cool Rust Pipeline and Scheduling application](https://github.com/thatsleepyman/pripline)
+[🐍 PyBridge - A fun little data broker in Python](https://github.com/thatsleepyman/PyBridge)
 
-[🐍 A fun little data broker in Python: PyBridge](https://github.com/thatsleepyman/PyBridge)
+[🌐 Compushop C.V.C - My first website](https://github.com/thatsleepyman/Compushop-C.V.C)
 
-[🌐 My first website](https://github.com/thatsleepyman/Compushop-C.V.C)
+[🔧 ETE - My first time building an application in C#](https://github.com/thatsleepyman/Excel-to-Access-Database-Exporter)
 
-[🔧 My first time building an application in C#](https://github.com/thatsleepyman/Excel-to-Access-Database-Exporter)
-
-[⚙️ My first PowerShell script](https://github.com/thatsleepyman/Powershell-Inventory_Tool)
+[⚙️ PIT - My first PowerShell script](https://github.com/thatsleepyman/Powershell-Inventory_Tool)
 
 <br><br>
 
