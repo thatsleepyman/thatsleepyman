@@ -41,7 +41,6 @@ Experienced in scripting, creating logging and monitoring scripts to automate re
 You can find and get in touch with me on these platforms:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/stefan-meeuwessen)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&labelColor=blue)](https://twitter.com/thatsleepyman)
 [![StackOverflow](https://img.shields.io/badge/StackOverflow-blue?style=flat-square&logo=stackoverflow&labelColor=blue)](https://stackoverflow.com/users/19625017/stefan-meeuwessen)
 
 <br><br>
