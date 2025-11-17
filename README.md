@@ -23,7 +23,9 @@ Experienced in scripting, creating logging and monitoring scripts to automate re
 <br><br>
 
 ## 🗂️ Highlight Projects
-[🦀 (W.I.P.) stackcheck - A Usefull too which checks the value of precious metals](https://github.com/thatsleepyman/stackcheck)
+[🦀 (W.I.P.) doxcer - A small tool which uses AI to automatically generate Markdown documentation for code](https://github.com/thatsleepyman/doxcer)
+
+[🦀 (W.I.P.) stackcheck - A Usefull tool which checks the value of precious metals](https://github.com/thatsleepyman/stackcheck)
 
 [🦀 (W.I.P.) pripline - A cool Rust Pipeline and Scheduling application](https://github.com/thatsleepyman/pripline)
 
