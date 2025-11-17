@@ -2,18 +2,18 @@
 
 # Hello, world! 👋 my name is Stefan
 
-I'm a developer with a passion for Data, Python, and automating away issues. I love to explore new technologies and leverage them to solve real-life problems ✨
+I'm a developer with a passion for Data, Programming, and automating away issues. I love to explore new technologies and leverage them to solve real-life problems ✨
 
 <br><br>
 
 ## 🛠️ Skills & Expertise
 **Programming Languages**  
-Proficient in Python, PowerShell, SQL, with a foundational understanding of HTML, CSS, Javascript, and C#. Other than that, I'm currently working on expanding my skill set by learning Rust.
+Proficient in Rust, Python, PowerShell, SQL, with a foundational understanding of HTML, CSS, Javascript, and C#.
 
 <br>
 
 **Data**  
-Experienced in Data Analysis and Data Visualization, with expertise in R, Python (including Pandas and Matplotlib), and Power BI. I also have a growing interest in Machine Learning and predictive analytics.
+Experienced in Data Analysis and Data Visualization, with expertise in Python (including Pandas, PySpark and Matplotlib), and PowerBI. I also have a growing interest in Machine Learning and predictive analytics.
 
 <br>
 
