@@ -23,15 +23,15 @@ Experienced in scripting, creating logging and monitoring scripts to automate re
 <br><br>
 
 ## 🗂️ Highlight Projects
-[🦀 doxcer - A small tool which uses AI to automatically generate Markdown documentation for code](https://github.com/thatsleepyman/doxcer)
+[🦀 doxcer - A small tool which uses AI to automatically generate Markdown documentation for code](https://github.com/Stefan-Meeuwessen/doxcer)
 
-[🐍 PyBridge - A fun little data broker in Python](https://github.com/thatsleepyman/PyBridge)
+[🐍 PyBridge - A fun little data broker in Python](https://github.com/Stefan-Meeuwessen/PyBridge)
 
-[🌐 Compushop C.V.C - My first website](https://github.com/thatsleepyman/Compushop-C.V.C)
+[🌐 Compushop C.V.C - My first website](https://github.com/Stefan-Meeuwessen/Compushop-C.V.C)
 
-[🔧 ETE - My first time building an application in C#](https://github.com/thatsleepyman/Excel-to-Access-Database-Exporter)
+[🔧 ETE - My first time building an application in C#](https://github.com/Stefan-Meeuwessen/Excel-to-Access-Database-Exporter)
 
-[⚙️ PIT - My first PowerShell script](https://github.com/thatsleepyman/Powershell-Inventory_Tool)
+[⚙️ PIT - My first PowerShell script](https://github.com/Stefan-Meeuwessen/Powershell-Inventory_Tool)
 
 <br><br>
 
